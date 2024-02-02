@@ -3,3 +3,4 @@ The LeetCode Problems Solution's in Python
 
 ## Easy
 - [Problem 69: Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- [Problem 145: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
